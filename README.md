@@ -1,6 +1,8 @@
-# unchshop_web
- 
+# Hi There!
 
+<p align="center">This is a project to fulfill the Sistem Informasi Manajemen Task.</p><br />
 
-https://github.com/yusrainiasraa/unchshop_web/assets/65879279/47338f90-d4f9-4e04-bf00-9f5c0479df06
+## Web Demo
+
+https://github.com/yusrainiasraa/unchshop_web/assets/65879279/e1d4f78d-7653-4c32-9b51-ee2e7b5effa8
 
