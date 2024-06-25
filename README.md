@@ -1,6 +1,6 @@
 # Hi There!
 
-<p>This is a project to fulfill the Sistem Informasi Manajemen Task.</p><br />
+<p>This is a project to fulfill the Sistem Informasi Manajemen Task.</p>
 
 ## Web Demo
 
